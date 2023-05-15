@@ -1,1 +1,0 @@
-import{d as e,e as t,f as s}from"./index-0373bfde.js";const o={class:"search_bar"},c=s("input",{type:"text",placeholder:"请输入疾病名称进行搜索"},null,-1),_=[c],i={__name:"index",setup(n){return(a,r)=>(e(),t("div",o,_))}};export{i as _};
